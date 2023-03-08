@@ -6,4 +6,4 @@ Resources for the 2023 International Womens Day masterclass on NLP with Twitter 
 
 [Slides](https://github.com/NICD-UK/IWD-twitterxhuggingface/blob/main/slides/slides.html)
 
-[Data](https://raw.githubusercontent.com/NICD-UK/IWD-twitterxhuggingface/main/data)
+[Data](https://github.com/NICD-UK/IWD-twitterxhuggingface/tree/main/data)
