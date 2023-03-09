@@ -16,6 +16,7 @@ format:
         width: 1366
         height: 768 
         slide-level: 2
+    
 ---
 
 ## Plan for today
@@ -323,7 +324,7 @@ Many pre-trained models are available, some of which are also fine tuned for spe
 - What regulations do you think should be placed on the use of language models (if any)?
 - What does the future look like?
 
-**There are post-its on the tables, please add these to the large sheets of paper on the walls**
+**There are post-its on the tables, please add your thoughts to the large sheets of paper on the walls**
 
 ```{r}
 
@@ -388,7 +389,9 @@ For our model, we will be using **Twitter-roBERTa-base for Sentiment Analysis**
 
 ## Thanks for attending!
 
+<!--![](img/feedback.png)-->
 
+- We're always eager to hear about real-life use cases of the content we share. If you end up using any of these materials in your organisation, please let us know how.
 
 - Feel free to contact me hollie.johnson@ncl.ac.uk
 
